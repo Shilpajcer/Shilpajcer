@@ -34,9 +34,4 @@
 🥇 Dlithe Hackathon — 1st Prize  
 🏅 VTU Hackathon — Top 5
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shilpajcer&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shilpajcer&layout=compact&hide_border=true" height="150"/>
-</p>
