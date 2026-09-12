@@ -8,7 +8,7 @@
 
 ### 💫 About Me
 
-🎓 3rd-year CSE student at Jain College of Engineering and Research, Belagavi.
+🎓 4th-year CSE student at Jain College of Engineering and Research, Belagavi.
 
 💻 Interested in **Python, Software Development, AI & GenAI**.
 
@@ -19,7 +19,7 @@
 ### 💻 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,flask,spring,git,github" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,flask,git,github" />
 </p>
 
 ---
