@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shilpa</h1>
 
-<!--
-**Shilpajcer/Shilpajcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Computer Science Engineering Student | Python Developer | AI Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
+
+🎓 3rd-year CSE student at Jain College of Engineering and Research, Belagavi.
+
+💻 Interested in **Python, Software Development, AI & GenAI**.
+
+🚀 I enjoy building real-world projects and participating in hackathons.
+
+---
+
+### 💻 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,flask,spring,git,github" />
+</p>
+
+---
+
+### 🚀 Projects
+
+* 👓 **Wearable Smart Reading Assistant** — AI-powered assistive technology
+* 🏙️ **AI Smart City** — Predictive maintenance system
+* 🏋️ **Gym Membership System** — Java, Spring Boot & MySQL
+
+---
+
+### 🏆 Achievements
+
+🥇 Dlithe Hackathon — 1st Prize
+🏅 VTU Hackathon — Top 5
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Shilpajcer&show_icons=true&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shilpajcer&layout=compact&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/shilpa-mali-75ab05295/) • [GitHub](https://github.com/Shilpajcer)
